@@ -1,0 +1,29 @@
+#table1{
+    border: 1px solid black;
+    width:60%;
+    border-spacing: 10px;
+}
+#table2{
+    border:5px double black;
+    border-collapse: separate;
+    border-spacing:10px;
+
+}
+tbody{
+ background-color: chartreuse;
+ text-align:center;
+ 
+}
+td{
+    border: 2px double red;
+    border-radius:10%;
+    padding: 10px;
+}
+tfoot,thead{
+    background-color: blueviolet;
+    text-align:center;
+}
+td:hover{
+    background-color: cadetblue;
+    color:brown;
+}

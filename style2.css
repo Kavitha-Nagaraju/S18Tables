@@ -1,0 +1,16 @@
+table{
+    border:2px solid black;
+    border-radius: 20px;
+    width:40%;
+}
+thead{
+    background-color: aqua;
+}
+
+tr:nth-child(even){
+    background-color:aqua;
+}
+td:hover{
+    background-color: aliceblue;
+    color:black;
+}
